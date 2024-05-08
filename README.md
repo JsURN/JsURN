@@ -5,8 +5,8 @@
  </div>
 
 
-- 🔭 I’m currently working on Pedidu software.
-- 🌱 I’m currently learning JavaScript, html and css
+- 🔭 I’m currently working on [Pedidu Software.](https://pedidu.com.br)
+- 🌱 I’m currently learning Next.js, React.
 
 ---
 
@@ -15,6 +15,15 @@
 [![Gmail Badge](https://img.shields.io/badge/-jonthan31@hotmail.com-006bed?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:jonthan31@hotmail.com)](mailto:jonthan31@hotmail.com) 
 
 [![Linkedin](https://img.shields.io/badge/-Jonathan_Silva-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jonathan-alex-9ba44322a/)](https://www.linkedin.com/in/jonathan-alex-9ba44322a/)
+
+---
+
+<h3>:rocket: My Skills:</h3>
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
