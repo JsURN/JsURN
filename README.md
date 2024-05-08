@@ -4,6 +4,7 @@
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=JsURN&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
  </div>
 
+---
 
 - 🔭 I’m currently working on [Pedidu Software.](https://pedidu.com.br)
 - 🌱 I’m currently learning Next.js, React.
