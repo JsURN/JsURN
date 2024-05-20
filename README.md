@@ -15,7 +15,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-jonthan31@hotmail.com-006bed?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:jonthan31@hotmail.com)](mailto:jonthan31@hotmail.com) 
 
-[![Linkedin](https://img.shields.io/badge/-Jonathan_Silva-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jonathan-alex-9ba44322a/)](www.linkedin.com/in/jonathan-silva012)
+[![Linkedin](https://img.shields.io/badge/-Jonathan_Silva-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jonathan-alex-9ba44322a/)](www.linkedin.com/in/JsURN)
 
 ---
 
